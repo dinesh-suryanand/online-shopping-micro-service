@@ -1,0 +1,10 @@
+com\dinesh\productmicroservice\controller\ProductController.class
+com\dinesh\productmicroservice\dto\ProductRequest.class
+com\dinesh\productmicroservice\model\Product$ProductBuilder.class
+com\dinesh\productmicroservice\dto\ProductResponse.class
+com\dinesh\productmicroservice\repository\ProductRepository.class
+com\dinesh\productmicroservice\service\ProductService.class
+com\dinesh\productmicroservice\dto\ProductRequest$ProductRequestBuilder.class
+com\dinesh\productmicroservice\ProductMicroserviceApplication.class
+com\dinesh\productmicroservice\dto\ProductResponse$ProductResponseBuilder.class
+com\dinesh\productmicroservice\model\Product.class
